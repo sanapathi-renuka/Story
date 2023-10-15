@@ -1,1 +1,1 @@
-I am the version 2 just started.
+I am the version 2 just started and I am special edited inside another branch.
